@@ -12,7 +12,7 @@ How it works:
  
  How to run:
   
-  1.) Download script from [Releases](https://github.com/nocontent06/run-xcode/releases)
-  2.) Open Terminal
-  3.) Type "chmod +x " and drag the file into Terminal and press Enter
-  4.) Drag the file again into Terminal and press Enter again
+  1. Download script from [Releases](https://github.com/nocontent06/run-xcode/releases)
+  2. Open Terminal
+  3. Type "chmod +x " and drag the file into Terminal and press Enter
+  4. Drag the file again into Terminal and press Enter again
