@@ -4,7 +4,7 @@ Small script to run XCode on unsupported Versions of macOS
 
 How it works:
 
-  The script uses the Exeutable called "open" (located in /usr/bin/open) with the Parameter "/Volumes/Macintosh\ HD/Applications/Xcode.app/Contents/MacOS/Xcode
+  The script uses the Executable called "open" (located in /usr/bin/open) with the Parameter "/Volumes/Macintosh\ HD/Applications/Xcode.app/Contents/MacOS/Xcode
   
  Note: 
   The drive from which Xcode should run *must* be called "Macintosh HD"!
